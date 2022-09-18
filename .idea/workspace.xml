@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf1312f8-3985-4911-8d7f-34925f7a8a8f" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHmGzgfBwZVMDcc1Xa8WhSnFyL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stream" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Javascript\xiedaimala\fanyi\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf1312f8-3985-4911-8d7f-34925f7a8a8f" name="默认更改列表" comment="" />
+      <created>1580711302596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580711302596</updated>
+      <workItem from="1580711303746" duration="12166000" />
+      <workItem from="1580782872462" duration="1824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="255" key="FileChooserDialogImpl" timestamp="1580806887252">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="255" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1580806887252" />
+    <state width="2021" height="292" key="GridCell.Tab.0.bottom" timestamp="1580711424240">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2021" height="292" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1580711424240" />
+    <state width="2021" height="292" key="GridCell.Tab.0.center" timestamp="1580711424240">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2021" height="292" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1580711424240" />
+    <state width="2021" height="292" key="GridCell.Tab.0.left" timestamp="1580711424240">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2021" height="292" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1580711424240" />
+    <state width="2021" height="292" key="GridCell.Tab.0.right" timestamp="1580711424240">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2021" height="292" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1580711424240" />
+    <state x="623" y="145" key="SettingsEditor" timestamp="1580712249465">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="623" y="145" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1580712249465" />
+    <state x="1054" y="260" key="run.anything.popup" timestamp="1580725665717">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1054" y="260" key="run.anything.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1580725665717" />
+  </component>
+</project>
